@@ -76,9 +76,6 @@ Sujet: Algorithmes
 - Interface utilisateur graphique
 - Support pour plus de critères de recommandation
 
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
   
 
 
