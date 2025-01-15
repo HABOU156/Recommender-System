@@ -7,4 +7,5 @@ include_directories(.)
 
 add_executable(Recommender_System
     recommandation.cpp
-    recommandation.h)
+    recommandation.h
+        main.cpp)
