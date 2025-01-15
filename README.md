@@ -27,8 +27,7 @@ Pour compiler le projet, utilisez la commande suivante :
 ## Utilisation
 
 Voici un exemple d'utilisation du système de recommandation en C++.
-  
-   ```cpp
+     ```cpp
   // Importer la classe du système de recommandation
   #include "SystemeRecommandation.h"
   
@@ -59,6 +58,7 @@ Voici un exemple d'utilisation du système de recommandation en C++.
       return 0;
   }
 
+  
 ## Exemple de Sortie
 Titre: Boucles For
 Niveau: 1
@@ -66,6 +66,7 @@ Sujet: Programmation
 Titre: Structures de données avancées
 Niveau: 4
 Sujet: Algorithmes
+
 
 ## Améliorations Possibles
 
@@ -79,5 +80,7 @@ Sujet: Algorithmes
 
 Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
   
+
+
 
 
